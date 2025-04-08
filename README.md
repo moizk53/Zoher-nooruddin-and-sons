@@ -88,7 +88,7 @@
   </section>  <section class="section" id="contact">
     <h2>Contact Us</h2>
     <p>Visit us at 57 Sutar Chawl, Mumbai.</p>
-    <p>Email: info@zohernooruddin.com | Phone: +91-XXXXXXXXXX</p>
+    <p>Email: zohernooruddinandson@gmail.com | Phone: +91-8355841114</p>
     <p>We deliver all over India.</p>
   </section>  <footer>
     <p>&copy; 2025 Zoher Nooruddin & Sons. All Rights Reserved.</p>
